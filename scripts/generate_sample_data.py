@@ -1,10 +1,3 @@
-"""
-Generate a realistic synthetic churn dataset.
-
-Usage:
-    python scripts/generate_sample_data.py --n_rows 5000
-"""
-
 import argparse
 import numpy as np
 import pandas as pd
